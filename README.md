@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+I am a fulture linguistics and philosophy scientist.
